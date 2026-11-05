@@ -27,5 +27,11 @@ Questions, problems or feature requests: open an
 For a problem report, the app's *Tools > Remote support* lets us see its status and log
 (read-only, with an access code you give us).
 
-Copyright © Easy Behavior. All rights reserved. The installer includes third-party components
-(ffmpeg, avrdude, Qt and others); their licences are in the installation folder (`_internal`).
+## Licence
+[PolyForm Noncommercial 1.0.0](LICENSE): free for noncommercial use, including research at
+universities and other noncommercial organisations. Commercial use needs a licence from Easy Behavior.
+
+Required Notice: Copyright (c) 2026 itskovpa
+
+The installer includes third-party components (ffmpeg, avrdude, Qt and others) under their own
+licences, which are in the installation folder (`_internal`).
