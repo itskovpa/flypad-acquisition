@@ -28,7 +28,7 @@ For a problem report, the app's *Tools > Remote support* lets us see its status 
 (read-only, with an access code you give us).
 
 ## Licence
-From version 1.3.5: the [FlyPad Software Licence](LICENSE), Copyright (c) 2026 Pavel Itskov.
+The [FlyPad Software Licence](LICENSE), Copyright (c) 2026 Pavel Itskov.
 In short (the licence text decides):
 - free for anyone who uses genuine FlyPad hardware, with all functions, for any purpose,
   on any number of computers; cameras, Arduino/OptoPad and other accessories can be of any make;
@@ -37,10 +37,6 @@ In short (the licence text decides):
 - not licensed for use with copied or imitated FlyPad hardware, or for analysing data recorded
   with it;
 - your data and results are yours.
-
-Versions up to 1.3.4 were released under
-[PolyForm Noncommercial 1.0.0](LICENSE-PolyForm-Noncommercial-up-to-1.3.4)
-(Required Notice: Copyright (c) 2026 Pavel Itskov).
 
 The installer includes third-party components (ffmpeg, avrdude, Qt and others) under their own
 licences, which are in the installation folder (`_internal`).
