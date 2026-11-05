@@ -31,7 +31,7 @@ For a problem report, the app's *Tools > Remote support* lets us see its status 
 [PolyForm Noncommercial 1.0.0](LICENSE): free for noncommercial use, including research at
 universities and other noncommercial organisations. Commercial use needs a licence from Pavel Itskov.
 
-Required Notice: Copyright (c) 2026 itskovpa
+Required Notice: Copyright (c) 2026 Pavel Itskov
 
 The installer includes third-party components (ffmpeg, avrdude, Qt and others) under their own
 licences, which are in the installation folder (`_internal`).
