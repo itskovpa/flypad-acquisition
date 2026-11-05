@@ -1,134 +1,172 @@
-PolyForm Noncommercial License 1.0.0
+FLYPAD ACQUISITION - SOFTWARE LICENCE
 
-<https://polyformproject.org/licenses/noncommercial/1.0.0>
+Copyright (c) 2026 Pavel Itskov. All rights reserved except as licensed below.
 
-## Acceptance
+0. Acceptance
 
-In order to get any license under these terms, you must agree
-to them as both strict obligations and conditions to all
-your licenses.
+By installing, copying or using the Software you accept this licence. If you do not accept it, do
+not install or use the Software. If you accept it for an organisation, you confirm that you are
+authorised to do so, and "you" means that organisation and the people using the Software for it.
 
-## Copyright License
+1. Definitions
 
-The licensor grants you a copyright license for the
-software to do everything you might do with the software
-that would otherwise infringe the licensor's copyright
-in it for any permitted purpose.  However, you may
-only distribute the software according to [Distribution
-License](#distribution-license) and make changes or new works
-based on the software according to [Changes and New Works
-License](#changes-and-new-works-license).
+- "Software": the FlyPad Acquisition program, including its acquisition, OptoPad, video,
+  tracking, review and analysis functions, its firmware files, documentation and updates, in any
+  form, as made available by the Licensor, excluding Third-Party Components.
+- "Licensor": Pavel Itskov.
+- "Genuine Hardware": FlyPad devices manufactured by or for the Licensor, directly or through a
+  company the Licensor controls or authorises (including FlyPad devices made before this licence),
+  and first put on the market by the Licensor or an Authorised Seller. A genuine device stays
+  Genuine Hardware when it is resold.
+- "Authorised Seller": the Licensor, companies the Licensor controls (such as Easy Behavior), and
+  distributors the Licensor has authorised in writing (list on request).
+- "Non-Genuine Hardware": any device that copies, imitates or emulates a FlyPad, or a device
+  made from the Licensor's FlyPad or OptoPad designs, circuit boards or firmware, without the
+  Licensor's written permission.
+- "Accessories": computers, cameras, Arduino boards, OptoPad or other stimulation devices, and
+  other equipment used with the Software that is not Non-Genuine Hardware, whoever made it.
+- "Recorded Data": data recorded with a FlyPad device, in any format.
+- "Third-Party Components": software included with the Software under its own licence (for
+  example ffmpeg, avrdude, Qt for Python / PySide6, other Python libraries and camera drivers), with
+  their licences in the installation folder.
 
-## Distribution License
+2. Licence grant
 
-The licensor grants you an additional copyright license
-to distribute copies of the software.  Your license
-to distribute covers distributing the software with
-changes and new works permitted by [Changes and New Works
-License](#changes-and-new-works-license).
+If you own, lease, borrow or otherwise lawfully use Genuine Hardware, the Licensor grants you a
+free, non-exclusive, worldwide, non-transferable licence, without the right to sublicense, to
+install the Software on any number of computers and to use all its functions, with Genuine Hardware
+and Accessories, for any purpose, subject to this licence.
 
-## Notices
+No licence is granted to use the Software, or any part of it, with Non-Genuine Hardware, or to
+anyone who does not use Genuine Hardware, except as allowed in section 3.
 
-You must ensure that anyone who gets a copy of any part of
-the software from you also gets a copy of these terms or the
-URL for them above, as well as copies of any plain-text lines
-beginning with `Required Notice:` that the licensor provided
-with the software.  For example:
+3. Recorded Data and analysis
 
-> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
+3.1 You may use the review and analysis functions of the Software only on Recorded Data recorded with
+Genuine Hardware, except as allowed in sections 3.2 and 3.3.
 
-## Changes and New Works License
+3.2 Collaboration and reproducibility. Anyone may use the Software to view and analyse Recorded
+Data that was recorded with Genuine Hardware and that a licensed user has shared with them, or that
+has been published, for example collaborators, journal editors, reviewers and readers checking or
+reproducing research results, whether or not they use Genuine Hardware themselves.
 
-The licensor grants you an additional copyright license to
-make changes and new works based on the software for any
-permitted purpose.
+3.3 Evaluation. Anyone may install the Software and use it with the example data supplied by the
+Licensor to evaluate it.
 
-## Patent License
+3.4 Your data and your results belong to you. The Licensor claims no rights in your Recorded Data,
+results, figures or publications.
 
-The licensor grants you a patent license for the software that
-covers patent claims the licensor can license, or becomes able
-to license, that you would infringe by using the software.
+4. Restrictions
 
-## Noncommercial Purposes
+Except as allowed by section 8 or by applicable law that cannot be excluded by contract, you may
+not, and may not allow others to:
 
-Any noncommercial purpose is a permitted purpose.
+1. use the Software, or any part of it, with Non-Genuine Hardware, or to analyse data recorded with
+   Non-Genuine Hardware;
+2. remove, disable, bypass or interfere with any licence check, hardware authentication or other
+   technical measure in the Software or in Genuine Hardware;
+3. reverse engineer, decompile or disassemble the Software or the firmware of Genuine Hardware;
+4. modify the Software, or distribute modified versions of it;
+5. use the Software, its firmware files, documentation or any part of them to design, make, test,
+   sell or support Non-Genuine Hardware;
+6. sell, rent or lease the Software, or offer it as a hosted service to others;
+7. remove or alter copyright, licence or trademark notices.
 
-## Personal Uses
+5. Copies and sharing
 
-Personal use for research, experiment, and testing for
-the benefit of public knowledge, personal study, private
-entertainment, hobby projects, amateur pursuits, or religious
-observance, without any anticipated commercial application,
-is use for a permitted purpose.
+You may make copies of the unmodified installer and share them, provided that this licence stays
+with every copy and no fee is charged for the Software. Every recipient is bound by this licence.
 
-## Noncommercial Organizations
+6. Publications
 
-Use by any charitable organization, educational institution,
-public research organization, public safety or health
-organization, environmental protection organization,
-or government institution is use for a permitted purpose
-regardless of the source of funding or obligations resulting
-from the funding.
+You may publish results, figures, tables and descriptions produced with the Software. The Licensor
+asks, but does not require, that publications cite the Software and the FlyPad method
+(Itskov et al., 2014, Nature Communications 5:4560).
 
-## Fair Use
+7. Technical measures, updates and remote support
 
-You may have "fair use" rights for the software under the
-law. These terms do not limit them.
+7.1 The Software may check that it is connected to Genuine Hardware, and may refuse to operate with
+other devices.
 
-## No Other Rights
+7.2 Updates are provided at the Licensor's discretion. Each update is licensed under the licence
+supplied with it.
 
-These terms do not allow you to sublicense or transfer any of
-your licenses to anyone else, or prevent the licensor from
-granting licenses to anyone else.  These terms do not imply
-any other licenses.
+7.3 The Software does not send data to the Licensor on its own. Its remote-support function sends
+status, log, channel statistics and pictures of the program's windows only after you start it, only
+to people to whom you give its access code, through an encrypted connection provided by a
+third-party tunnel service (Cloudflare), and stops when you stop it. If you give the code to the
+Licensor, the Licensor uses the information received only to provide support and does not keep it
+longer than needed for that.
 
-## Patent Defense
+8. Third-Party Components
 
-If you make any written claim that the software infringes or
-contributes to infringement of any patent, your patent license
-for the software granted under these terms ends immediately. If
-your company makes such a claim, your patent license ends
-immediately for work on behalf of your company.
+Third-Party Components are licensed under their own licences, not this licence, and nothing in this
+licence limits your rights under them, including any right to obtain their source code. In
+particular, where a Third-Party Component is licensed under the GNU Lesser General Public License,
+you may modify that component and replace it in the Software for your own use, and reverse engineer
+the Software to the extent necessary to debug such modifications, as that licence requires.
 
-## Violations
+9. Ownership and trademarks
 
-The first time you are notified in writing that you have
-violated any of these terms, or done anything with the software
-not covered by your licenses, your licenses can nonetheless
-continue if you come into full compliance with these terms,
-and take practical steps to correct past violations, within
-32 days of receiving notice.  Otherwise, all your licenses
-end immediately.
+The Software is licensed, not sold. The Licensor and the Licensor's licensors keep all rights not
+expressly granted. "FlyPad" and "OptoPad" are names and trademarks used by the Licensor. This
+licence grants no right to use them except to refer to the Software and Genuine Hardware accurately.
 
-## No Liability
+10. Termination
 
-***As far as the law allows, the software comes as is, without
-any warranty or condition, and the licensor will not be liable
-to you for any damages arising out of these terms or the use
-or nature of the software, under any kind of legal claim.***
+10.1 This licence ends automatically if you break any of its terms.
 
-## Definitions
+10.2 If you break a term for the first time and, within 30 days of receiving written notice from the
+Licensor, stop the breach (including all use with Non-Genuine Hardware), your licence is reinstated.
+This does not apply to a breach of section 4 items 2, 3 or 5.
 
-The **licensor** is the individual or entity offering these
-terms, and the **software** is the software the licensor makes
-available under these terms.
+10.3 When the licence ends, you must stop using the Software and delete your copies. Sections 3.4, 8,
+9, 10.3, 11, 12, 13, 14 and 15 continue to apply.
 
-**You** refers to the individual or entity agreeing to these
-terms.
+11. No warranty
 
-**Your company** is any legal entity, sole proprietorship,
-or other kind of organization that you work for, plus all
-organizations that have control over, are under the control of,
-or are under common control with that organization.  **Control**
-means ownership of substantially all the assets of an entity,
-or the power to direct its management and policies by vote,
-contract, or otherwise.  Control can be direct or indirect.
+The Software is provided free of charge, "as is", without warranty of any kind, express or implied,
+including fitness for a particular purpose and accuracy of results, to the extent permitted by law.
+You are responsible for checking that results are suitable for your purpose. Any warranty for
+Genuine Hardware is given by its sales contract, not by this licence.
 
-**Your licenses** are all the licenses granted to you for the
-software under these terms.
+12. Limitation of liability
 
-**Use** means anything you do with the software requiring one
-of your licenses.
+To the extent permitted by law, the Licensor is not liable for any indirect, incidental or
+consequential damage, or loss of data, research time, profit or business, arising from use of or
+inability to use the Software, and the Licensor's total liability under this licence is limited to
+EUR 100. These limits do not apply to liability for intent or gross negligence, for
+death or personal injury caused by negligence, or for fraud, or to any other liability or consumer
+right that cannot be limited or excluded by law.
 
+13. Territory, law and courts
 
-Required Notice: Copyright (c) 2026 Pavel Itskov
+This licence applies worldwide, wherever the Software is used. It is governed by the law of
+Portugal, without regard to its conflict-of-law rules. The courts of Lisbon, Portugal, have
+jurisdiction, but the Licensor may also enforce the Licensor's rights in the courts of the place
+where a breach happens.
+
+14. Earlier versions
+
+Versions of the Software up to and including 1.3.4 were released under the PolyForm Noncommercial
+License 1.0.0, and copies of those versions remain under that licence. This licence applies to
+version 1.3.5 and every later version.
+
+15. General
+
+15.1 This licence is the entire agreement about the Software between you and the Licensor, unless
+you have a separate written agreement with the Licensor.
+
+15.2 If any part of this licence is unenforceable, the rest still applies, and the unenforceable
+part applies to the greatest extent the law allows.
+
+15.3 If the Licensor does not enforce a term, the Licensor does not waive the right to enforce it
+later.
+
+15.4 The Licensor may transfer this licence and the Licensor's rights in the Software, for example
+to a company the Licensor controls; this licence then continues with that company as Licensor.
+
+15.5 If this licence is translated, the English text prevails.
+
+Questions, permissions and the list of authorised sellers: Pavel Itskov, via
+https://github.com/itskovpa/flypad-acquisition/issues
