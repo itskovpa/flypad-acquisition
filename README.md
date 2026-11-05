@@ -23,13 +23,13 @@ release and installed with the app (Start menu).
 
 ## Support
 Questions, problems or feature requests: open an
-[issue](https://github.com/itskovpa/flypad-acquisition/issues) or contact Easy Behavior.
+[issue](https://github.com/itskovpa/flypad-acquisition/issues) or contact Pavel Itskov.
 For a problem report, the app's *Tools > Remote support* lets us see its status and log
 (read-only, with an access code you give us).
 
 ## Licence
 [PolyForm Noncommercial 1.0.0](LICENSE): free for noncommercial use, including research at
-universities and other noncommercial organisations. Commercial use needs a licence from Easy Behavior.
+universities and other noncommercial organisations. Commercial use needs a licence from Pavel Itskov.
 
 Required Notice: Copyright (c) 2026 itskovpa
 
