@@ -21,6 +21,10 @@ release and installed with the app (Start menu).
   Excel export; behaviour analysis combining tracking and feeding.
 - **Tools**: FlyPad firmware update (Atmel-ICE), read-only remote support.
 
+## About this repository
+This repository is the download page: it holds the releases (installer and manuals), this page and the
+licence. The source code is not published here.
+
 ## Support
 Questions, problems or feature requests: open an
 [issue](https://github.com/itskovpa/flypad-acquisition/issues) or contact Pavel Itskov.
